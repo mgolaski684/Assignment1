@@ -21,7 +21,7 @@ public:
 			counter += scores[i];
 		}
 		return counter;
-	}
+	}//new code
 };
 int main()
 {
